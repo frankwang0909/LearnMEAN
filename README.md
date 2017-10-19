@@ -1,2 +1,3 @@
 # LearnMEAN
-learning notes of MEAN stack
+
+notes of MEAN stack
